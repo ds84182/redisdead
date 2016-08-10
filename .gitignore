@@ -1,0 +1,6 @@
+gambatte_sdl
+**/*.bin
+**/*.o
+**/symbols.asm
+pokemon-red-cable-club-hack/
+**/*~
